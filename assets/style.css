@@ -1,0 +1,22 @@
+body{
+    font-family: 'Courgette', cursive;
+    background-color: #a2a2a2;
+}
+
+.jumbotron{
+    background-image: url("./imgs/PageHeader.jpg");
+    background-size: cover;
+}
+
+.headerText{
+    border: #000 5px solid;
+    background-color: rgb(255, 255, 0);
+}
+
+.cardHeader, #inputButton{
+    background-color: rgb(255, 255, 0);
+}
+
+.forecastCard{
+    background-color: rgb(0, 255, 255);
+}
