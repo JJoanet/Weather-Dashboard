@@ -26,4 +26,4 @@ This application has a live deploy link, which can be found at the top of this R
 Zach Duty, Matt Reisdorf
 
 ## Screenshot
-![Screenshot](./assets/img/screenshot.png)
+![Screenshot](./assets/imgs/Screenshot.PNG)
